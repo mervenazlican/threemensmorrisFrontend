@@ -10,7 +10,7 @@ function Icons() {
             <FaCarrot size= "40" color="#A52A2A"/>
             <FaCarrot size= "40" color="#A52A2A"/>
         </div>
-        
+         
         <div className='apple' id="apple">
             <FaAppleAlt size= "40" color="#A52A2A"/>
             <FaAppleAlt size= "40" color="#A52A2A"/>

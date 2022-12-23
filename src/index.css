@@ -19,7 +19,7 @@ body {
 
 .board{
   width: 100vw;
-  height: 60vh;
+  height: 60vh; 
   display: grid;
   grid-template-columns: repeat(2, auto);
   justify-content: center;

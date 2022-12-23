@@ -12,7 +12,7 @@ function Oyun() {
         .then(
             (result) => {
                 setIsLoaded(true);
-                setOyunList(result)
+                setOyunList(result) 
             },
             (error) => {
                 setIsLoaded(true);
